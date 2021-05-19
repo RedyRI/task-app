@@ -13,7 +13,7 @@ class Overview extends Component {
     const onOpen = this.props.onOpen
     return(
       <div>
-          <table className='table  table-striped'>
+          <table className='table table-dark table-striped'>
           <thead>
             <tr>
               <th className='th1' scope='col'>D/M</th>
